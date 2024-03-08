@@ -30,3 +30,4 @@ user2.sendMessage(user1, "Hi Alice! I'm doing well, thanks!");
 
 console.log(user1.messages);
 console.log(user2.messages);
+
